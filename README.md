@@ -1,2 +1,2 @@
 # Simon-Game
-It is a simple Simon-Game
+This project is a web-based memory game inspired by the classic Simon game. It features a grid of four colored buttons that light up in a sequence which the player must replicate. The game uses JavaScript, jQuery, and CSS to handle user interactions, animations, and game logic. The player starts the game by pressing any key, and the game progresses through increasing levels of difficulty as the sequence grows longer. The game ends with a "Game Over" message if the player makes a mistake, and the player can restart by pressing any key.
